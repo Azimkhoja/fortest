@@ -4,3 +4,4 @@ const git = {
 };
 
 console.log(git);
+console.log(proces);
